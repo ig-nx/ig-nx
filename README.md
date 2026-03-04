@@ -1,8 +1,18 @@
-### ¡Hola! Mi nombre es Ignacio Leyton 👋
+# 👋 Hola, soy Ignacio Leyton
 
-## Desarrollador de Software
+<p align="center">
 
-Soy desarrollador con experiencia en automatización y desarrollo web.
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desarrollador;Automatización+con+n8n;Python+%7C+JavaScript+%7C+Django;Aprendiendo+IA+y+LLMs" />
+
+</p>
+
+---
+
+# 🚀 Sobre mí
+
+Soy desarrollador enfocado en automatización, backend y herramientas prácticas.
+
+Tecnologías con las que trabajo:
 
 - Python
 - JavaScript
@@ -10,156 +20,131 @@ Soy desarrollador con experiencia en automatización y desarrollo web.
 - CSS
 - Django
 - n8n
+- PostgreSQL
 
-⚡ Interesado en automatización, desarrollo web y herramientas open-source  
-⚡ Siempre aprendiendo nuevas tecnologías
+Intereses actuales:
 
----
-
-# Cursos / Recursos
-
-*(Sección opcional, puedes editar o eliminar)*
-
-- 👉[Curso de C](LINK_CURSO_C)
-- 👉[Curso de Git & GitHub](LINK_CURSO_GIT)
-- 👉[Curso de Photoshop](LINK_CURSO_PHOTOSHOP)
+- Automatización avanzada
+- Integración de APIs
+- Inteligencia Artificial
+- LLMs y LangChain
+- Sistemas backend escalables
 
 ---
 
-# Contacto
+# 🧠 Cursos
 
-Puedes agregar tus redes aquí.
+Cursos realizados o estudiados:
 
-[<img align="bottom" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-[<img align="left" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
-[<img align="left" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />][facebook]
-
-<br />
+- Git y GitHub
+- n8n Automatización
+- PostgreSQL
+- LangChain
+- LLM (Large Language Models)
 
 ---
 
-# Lenguajes y Herramientas
+# 🧰 Tecnologías
 
-## Generales
+## Lenguajes
 
-<br />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" />
+---
 
-<br />
+## Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
 ## Automatización
 
-<br />
-
-<img align="bottom" src="https://n8n.io/favicon.ico" width="30" height="30" />
-
-<br />
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## Herramientas de Desarrollo
+## Base de datos
 
-<br />
-
-<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
-
-<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# Proyectos / Aplicaciones
+## Herramientas
 
-*(Sección editable)*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Puedes listar tus proyectos aquí.
+---
 
-Ejemplo:
+# 📊 Estadísticas de GitHub
 
-[<img align="left" width="30px" src="ICONO_APP" />][proyecto1]  
-**Nombre del Proyecto**  
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Actividad
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" />
+
+---
+
+# ⭐ Proyectos Destacados
+
+Puedes colocar aquí tus proyectos principales.
+
+### Proyecto 1
+
 Descripción breve del proyecto.
 
-<br />
+### Proyecto 2
 
-[<img align="left" width="30px" src="ICONO_APP" />][proyecto2]  
-**Nombre del Proyecto**  
 Descripción breve del proyecto.
 
-<br />
+### Proyecto 3
+
+Descripción breve del proyecto.
 
 ---
 
-# Estadísticas de GitHub
+# 🌐 Contacto
 
-<details>
-<summary>Ver estadísticas</summary>
+(Editar con tus enlaces)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&show_icons=true)
-
-</details>
+[LinkedIn][linkedin]  
+[GitHub][github]  
+[Website][website]
 
 ---
 
-# Videos / Contenido
+# 👁 Visitas al perfil
 
-<details>
-<summary>Ver</summary>
-
-<!-- YOUTUBE:START -->
-
-- Video 1
-- Video 2
-- Video 3
-
-<!-- YOUTUBE:END -->
-
-</details>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" />
 
 ---
 
-# Actividad Reciente
+# 🔗 Enlaces
 
-<details>
-<summary>Ver</summary>
-
-<!--START_SECTION:activity-->
-
-1. Actividad reciente
-2. Actividad reciente
-3. Actividad reciente
-
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-# Links editables
-
-[website]: LINK_SITIO_WEB  
-[youtube]: LINK_YOUTUBE  
-[instagram]: LINK_INSTAGRAM  
-[facebook]: LINK_FACEBOOK  
-[linkedin]: LINK_LINKEDIN  
-
-[proyecto1]: LINK_PROYECTO_1  
-[proyecto2]: LINK_PROYECTO_2  
-
-[web]: https://www.google.com/
+[linkedin]: https://linkedin.com/
+[github]: https://github.com/
+[website]: https://example.com
