@@ -127,18 +127,6 @@ Cursos realizados o estudiados:
 
 ---
 
-# Estadísticas de GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ig-nx&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-nx&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # Racha de contribuciones
 
 <p align="center">
@@ -155,7 +143,7 @@ Cursos realizados o estudiados:
 
 ---
 
-# Proyectos Destacados
+# Algunos proyectos
 
 ## Aplicaciones web desplegadas
 
