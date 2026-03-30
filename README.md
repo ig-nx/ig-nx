@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ignacio Leyton
+# Hola, soy Ignacio Leyton
 
 <p align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 Sobre mí
+# Sobre mí
 
 Soy desarrollador enfocado en automatización, backend y herramientas prácticas.
 
@@ -32,7 +32,7 @@ Intereses actuales:
 
 ---
 
-# 🧠 Cursos
+# Cursos
 
 Cursos realizados o estudiados:
 
@@ -44,7 +44,7 @@ Cursos realizados o estudiados:
 
 ---
 
-# 🧰 Tecnologías
+# Tecnologías
 
 ## Lenguajes
 
@@ -81,70 +81,84 @@ Cursos realizados o estudiados:
 
 ---
 
-# 📊 Estadísticas de GitHub
+# Estadísticas de GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ig-nx&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-nx&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 🔥 Racha de contribuciones
+# Racha de contribuciones
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ig-nx&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 📈 Actividad
+# Actividad
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" />
-
----
-
-# ⭐ Proyectos Destacados
-
-Puedes colocar aquí tus proyectos principales.
-
-### Proyecto 1
-
-Descripción breve del proyecto.
-
-### Proyecto 2
-
-Descripción breve del proyecto.
-
-### Proyecto 3
-
-Descripción breve del proyecto.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ig-nx&theme=tokyo-night" />
 
 ---
 
-# 🌐 Contacto
+# Proyectos Destacados
 
-(Editar con tus enlaces)
+## Aplicaciones web desplegadas
 
-[LinkedIn][linkedin]  
-[GitHub][github]  
-[Website][website]
+- [app-llm-fullstack](https://github.com/ig-nx/app-llm-fullstack)  
+  Backend de API para curso de LLM en Python, con demo desplegada en Vercel: https://app-llm-fullstack.vercel.app
+
+- [ordenapp](https://github.com/ig-nx/ordenapp)  
+  Aplicación de tareas y técnica Pomodoro, con frontend en JavaScript y demo en producción: https://ordenapp.onrender.com/
+
+## Proyectos backend en Python
+
+- [admin-biblioteca](https://github.com/ig-nx/admin-biblioteca)  
+  Sistema de administración de biblioteca para gestionar libros, usuarios y préstamos usando Python.
+
+- [prestamos-lab](https://github.com/ig-nx/prestamos-lab)  
+  Herramienta en Python para gestionar préstamos de laboratorio (equipos, materiales y devoluciones).
+
+- [sistema-gestion-mascostas](https://github.com/ig-nx/sistema-gestion-mascostas)  
+  Sistema de gestión de mascotas y clientes de una veterinaria, desarrollado en Python.
+
+- [soporte-empresa-tickets](https://github.com/ig-nx/soporte-empresa-tickets)  
+  Backend en Python para gestión de tickets de soporte interno en una empresa.
+
+## Presencia online y perfil
+
+- [ig-nx.github.io](https://github.com/ig-nx/ig-nx.github.io)  
+  Sitio personal estático hospedado en GitHub Pages, construido en HTML.
+
+- [ig-nx](https://github.com/ig-nx/ig-nx)  
+  Repositorio especial cuyo README se muestra como portada de tu perfil de GitHub.
 
 ---
 
-# 👁 Visitas al perfil
+# Contacto
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)][github]  
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)][website]
 
 ---
 
-# 🔗 Enlaces
+# Visitas al perfil
 
-[linkedin]: https://linkedin.com/
-[github]: https://github.com/
-[website]: https://example.com
+<img src="https://komarev.com/ghpvc/?username=ig-nx&label=Visitas&color=0e75b6&style=flat" />
+
+---
+
+# Enlaces
+
+[linkedin]: https://www.linkedin.com/in/ig-nx/
+[github]: https://github.com/ig-nx/
+[website]: https://ig-nx.github.io/
