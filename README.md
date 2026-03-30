@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desarrollador;Automatización+con+n8n;Python+%7C+JavaScript+%7C+Django;Aprendiendo+IA+y+LLMs" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=En+camino+a+Full+Stack+Developer;Automatización+de+procesos;Python+%7C+Backend+%7C+IA+aplicada;Aprendizaje+continuo+en+web+y+desarrollo+moderno" />
 
 </p>
 
@@ -10,9 +10,17 @@
 
 # Sobre mí
 
-Soy desarrollador enfocado en automatización, backend y herramientas prácticas.
+Soy desarrollador enfocado en automatización, backend y construcción de herramientas prácticas.
 
-Tecnologías con las que trabajo:
+Actualmente estoy en un proceso de aprendizaje continuo, fortaleciendo mis bases en desarrollo web y backend mientras avanzo hacia un perfil full stack.
+
+Trabajo principalmente con Python y continúo mejorando cada día en desarrollo de aplicaciones, automatización de procesos e integración de tecnologías modernas. En JavaScript estoy en etapa de aprendizaje, desarrollando una base sólida y aplicándolo de forma progresiva en proyectos reales.
+
+También estoy profundizando en el uso de herramientas de Inteligencia Artificial, APIs de modelos y prompt engineering, aplicándolas de forma práctica en proyectos y entornos reales.
+
+Uno de mis objetivos a futuro es crear y lanzar mi propio SaaS, combinando desarrollo, automatización e Inteligencia Artificial en productos útiles y funcionales.
+
+Tecnologías y herramientas con las que trabajo o estoy aprendiendo activamente:
 
 - Python
 - JavaScript
@@ -21,14 +29,25 @@ Tecnologías con las que trabajo:
 - Django
 - n8n
 - PostgreSQL
+- FastAPI
+- React
+- Next.js
+- Render
+- Vercel
+- APIs de IA
 
 Intereses actuales:
 
-- Automatización avanzada
+- Automatización de procesos
 - Integración de APIs
-- Inteligencia Artificial
-- LLMs y LangChain
-- Sistemas backend escalables
+- Inteligencia Artificial aplicada
+- LLMs y prompt engineering
+- OpenAI API, Claude y Gemini
+- Desarrollo backend con Python
+- Desarrollo full stack con React, Next.js y JavaScript
+- Despliegue de aplicaciones en Render y Vercel
+- Construcción de aplicaciones web modernas y funcionales
+- Creación de productos digitales y SaaS
 
 ---
 
@@ -41,6 +60,10 @@ Cursos realizados o estudiados:
 - PostgreSQL
 - LangChain
 - LLM (Large Language Models)
+- Prompt Engineering
+- APIs y herramientas de IA
+- Desarrollo web con JavaScript
+- Fundamentos de desarrollo backend con Python
 
 ---
 
@@ -58,6 +81,14 @@ Cursos realizados o estudiados:
 ## Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
@@ -70,6 +101,21 @@ Cursos realizados o estudiados:
 ## Base de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## IA y APIs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## Despliegue
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -145,20 +191,22 @@ Cursos realizados o estudiados:
 
 # Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin]  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)][github]  
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)][website]
+<p align="center">
+  <a href="https://www.linkedin.com/in/ig-nx/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ig-nx/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://ig-nx.github.io/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 # Visitas al perfil
 
-<img src="https://komarev.com/ghpvc/?username=ig-nx&label=Visitas&color=0e75b6&style=flat" />
-
----
-
-# Enlaces
-
-[linkedin]: https://www.linkedin.com/in/ig-nx/
-[github]: https://github.com/ig-nx/
-[website]: https://ig-nx.github.io/
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ig-nx&label=Visitas&color=0e75b6&style=for-the-badge" />
+</p>
