@@ -168,7 +168,7 @@ Cursos realizados o estudiados:
   Backend en Python para gestión de tickets de soporte interno en una empresa.
 
 - [club-videojuegos](https://github.com/ig-nx/club-videojuegos)  
-  Aplicación web construida con Django para explorar un catálogo de videojuegos, con registro e inicio de sesión, panel administrativo, PostgreSQL en producción y despliegue en Render. Demo: https://club-videojuegos.onrender.com/
+  Aplicación web construida con Django para explorar un catálogo de videojuegos, con registro e inicio de sesión, panel administrativo, PostgreSQL en producción y despliegue en Render. Demo: https://club-videosjuegos.onrender.com/
 
 ## Presencia online y perfil
 
