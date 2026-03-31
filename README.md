@@ -152,8 +152,11 @@ Cursos realizados o estudiados:
 
 - [ordenapp](https://github.com/ig-nx/ordenapp)  
   Aplicación de tareas y técnica Pomodoro, con frontend en JavaScript y demo en producción: https://ordenapp.onrender.com/
+  
+- [club-videojuegos](https://github.com/ig-nx/club-videosjuegos)  
+  Aplicación web construida con Django para explorar un catálogo de videojuegos, con registro e inicio de sesión, panel administrativo, PostgreSQL en producción y despliegue en Render. Demo: https://club-videosjuegos.onrender.com/
 
-## Proyectos backend en Python
+## Proyectos backend en Python y otros
 
 - [admin-biblioteca](https://github.com/ig-nx/admin-biblioteca)  
   Sistema de administración de biblioteca para gestionar libros, usuarios y préstamos usando Python.
@@ -167,8 +170,8 @@ Cursos realizados o estudiados:
 - [soporte-empresa-tickets](https://github.com/ig-nx/soporte-empresa-tickets)  
   Backend en Python para gestión de tickets de soporte interno en una empresa.
 
-- [club-videojuegos](https://github.com/ig-nx/club-videojuegos)  
-  Aplicación web construida con Django para explorar un catálogo de videojuegos, con registro e inicio de sesión, panel administrativo, PostgreSQL en producción y despliegue en Render. Demo: https://club-videosjuegos.onrender.com/
+- [chinook-fastapi-sqlite-api](https://github.com/ig-nx/chinook-fastapi-sqlite-api)
+  API REST (FastAPI + SQLite) sobre la BD Chinook.
 
 ## Presencia online y perfil
 
